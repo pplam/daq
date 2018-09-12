@@ -6,7 +6,7 @@ Decentralize QA system base on Ethereum.
 * [truffle](https://truffleframework.com/)
 ## Installation
 ~~~
-git clone && cd daq && npm install
+git clone https://github.com/pplam/daq.git && cd daq && npm install
 ~~~
 ## Usage
 Run `ganache-cli` first
