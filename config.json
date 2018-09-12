@@ -1,0 +1,7 @@
+{
+  "sender": "0xbafe90c41643264a21b6aa8d7762d297e6b76875",
+  "privateKey": "0xfe464044fc40dd2a3d466361d6b184fa5278472dfb67602889a0d2113772507a",
+  "contractAddress": "0xd73a44d627a06803d88ee62f69e9061adddd7c41",
+  "endpoint": "ws://localhost:8545"
+}
+
